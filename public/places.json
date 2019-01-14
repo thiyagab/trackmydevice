@@ -1,0 +1,140 @@
+{
+	"html_attributions": [],
+	"next_page_token": "CpQCDwEAAJwdqLU_q4CMC9j-DOFIiwmwpP8ICAF_lHHKpWrNLfYsLS0hubKFTbau5sp7Tc_vC2bftXqZSRfq4uMk34-nE1f3weBRv77ZvsUhQn1MvJCfW6pNFA6zrDP_lPLBQZVrGVePIGhW8g485WnZdAHUyKpr4jjJ6hiOh2R6MxVBTYHyRuy5mDa-NGx4zQXDsHGSejOPH6BmPUoyfb-2MmRo1kcYABkBZRAaXpDmTtoXLmX8GxELbMOOAjEJ8Vzxdk-4GQkzoDYB1YwHBR1JXzxlawX0DdUyaJKjLWGjvt8GOwF8d9KVTF0r528jDCheFjvRgxOGMeYq1IrUx9lBofHH4sAX2plD6BGumN40mdBkDKVMEhC8pyLxL6t51mflBEc_WkF6GhTsH0kHwldrZYDnyUZ78TU9zeiiqg",
+	"results": [
+		{
+			"formatted_address": "Little Tokyo Shopping Center, 333 South Alameda St #310, Los Angeles, CA 90013, USA",
+			"geometry": {
+				"location": {
+					"lat": 34.0450139,
+					"lng": -118.2388682
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 34.04636372989273,
+						"lng": -118.2375183701073
+					},
+					"southwest": {
+						"lat": 34.04366407010728,
+						"lng": -118.2402180298928
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "bdc0c9353ceb91395214f3f84f0016059271acd7",
+			"name": "Shojin",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+				"height": 2336,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/100540448898812651487/photos\">Roman Roze</a>"
+				],
+				"photo_reference": "CmRaAAAALLVT3JKv4U1gRmbItfHhzOIdYRIibKmLMWThQa0gYU-umKbevliJUIogQL_Hm1_6oWGlutmR4kuzd6ikrpM4_eIeLSprpxAlHiEmi3FVNN5XvnBxfV8xWj6ggQLNM8DxEhDscXYyU5r1aKlYTCVLG61tGhQsd9XLF9OR7UL9XZo_eOm1Y98hCw",
+				"width": 3504
+			}],
+			"place_id": "ChIJyy_0pjnGwoARi47oqNbdedU",
+			"price_level": 3,
+			"rating": 4.6,
+			"reference": "CmRbAAAAORx-wW_TP5eWz0P93UBThqK-FdOLxos-ptjGRGlmiFaOf6ySc43rGF1ENCNilSFQL0Q-7RtFawCJMdvApBCTEyHZnRIIx4Jp4cRIcvSxRBJzB-S3aWfAglqv4L_sO7zsEhAjm-hxEpM5a-8fqVVcqJAbGhQDjg_IeMxUnePapODPTZPxOis_Lw",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			]
+		},
+		{
+			"formatted_address": "2520 Glendale Blvd, Los Angeles, CA 90039, USA",
+			"geometry": {
+				"location": {
+					"lat": 34.1031997,
+					"lng": -118.2586152
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 34.10455672989272,
+						"lng": -118.2575728201073
+					},
+					"southwest": {
+						"lat": 34.10185707010727,
+						"lng": -118.2602724798928
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "52be338abc98361f3c8664a7d4e853a11332afec",
+			"name": "by CHLOE. Silver Lake",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+				"height": 2988,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104636687373132435944/photos\">Jeannette G.</a>"
+				],
+				"photo_reference": "CmRaAAAA4Yb-teP-cLR0wHYMwtNvoo-wPlgVsj444v-VTgdwi63Gshd-PV5ZMhVPQSN2v5yPM-lxvZQW7Redm4wNKPLmGku5MNs0yhMuBysvXO6gpJ6kF4PGCepMIcZQ409LpBD_EhD8ZeAMspzsx_RnDHSQkuDlGhQ3-VOGj2K85VfvxsOCAyIS4HdVnw",
+				"width": 5312
+			}],
+			"place_id": "ChIJ4fYRfivHwoAR_2DlpZxO5_8",
+			"price_level": 2,
+			"rating": 4.5,
+			"reference": "CmRbAAAALsJqmhwH-aLZPy6SNAbLNzQRQ3qfT92yX3k6t13Ynq9K5hQatkTEBPhTr-pqcF3RznWRRYDNUoyPSoT8irbse6j2VZUHsgvo7wvPPVSTeYaeB3gZYXNaFnJmcqyUUU4CEhAhjByzVT-NNxUGH3pcyuS-GhTSUc8pvZUzjDie_3LXHrkObrtDzA",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			]
+		},
+		{
+			"formatted_address": "639 N Larchmont Blvd, Los Angeles, CA 90004, USA",
+			"geometry": {
+				"location": {
+					"lat": 34.0828183,
+					"lng": -118.3241586
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 34.08422687989272,
+						"lng": -118.3225729201073
+					},
+					"southwest": {
+						"lat": 34.08152722010728,
+						"lng": -118.3252725798928
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "21f5bb524cea1c8698187b817298300df290ad1b",
+			"name": "Cafe Gratitude",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+				"height": 1365,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115181038312887901832/photos\">Cafe Gratitude</a>"
+				],
+				"photo_reference": "CmRaAAAAX_eBNo4lUv8qGy5th3upd5Qp_Gx9NEQ55wfy0Yb7l1L_0M_gIwQqPb55RiJivmK_Wu3_CiyjBwEVGeeQCGRPHanVPYIG7_fQGV3_o2QgPSgQOAEfeKvuvdeUFGLX2TMzEhANtSJNyyzGbezwvsEmgvklGhSNKWwiEgOHaw28SqiWmqm1aAWDJQ",
+				"width": 2048
+			}],
+			"place_id": "ChIJjRPL7sm4woARFcIwlfejAGA",
+			"price_level": 2,
+			"rating": 4.5,
+			"reference": "CmRbAAAANXEcxEtfEYz2V5OIwdFEuyw35xZZ7SpF9AVuYFUqha3tf8CiZbuYrXLCG_y-twfXpcRiYyN0kXDfwmjA-uPZQaPbfpriBY397myHuiFF1A1ESI-5Hcb1y6UiRger5g3tEhCRq3Ml_vdNqA8AGua9iLXrGhTz1KC9902YirqAu7KLW4Bq7FYOEQ",
+			"types": [
+				"cafe",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			]
+		}
+	],
+	"status": "OK"
+}
