@@ -11,6 +11,7 @@ import CHENNAI_CENTER from '../const/la_center';
 import Sockette from 'sockette';
 
 
+const WEBSOCKET_URL='ws://localhost:8082/api/track?trackerid='
 
 // Return map bounds based on list of places
 const getMapBounds = (map, maps, places) => {
@@ -60,8 +61,8 @@ class Main extends Component {
    initializeWebSocket = ()=>{
     
     var pathname=window.location.pathname.split("/")[2]
-    console.log('Path',pathname)
-    new Sockette('ws://localhost:8082/api/track?trackerid='+pathname, {
+    
+    new Sockette(WEBSOCKET_URL+pathname, {
       timeout: 5e3,
       maxAttempts: 3,
       onopen: e => console.log('Connected!', e),
